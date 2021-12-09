@@ -2,5 +2,5 @@
 layout: slide
 tittle: "Welcome to uor second slide"
 ---
-your text
+diego lucero
 use the left arrow to go back
